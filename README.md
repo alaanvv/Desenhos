@@ -1,5 +1,6 @@
 # Desenhos
 Alguns sites que fiz pra ter fácil acesso aos meus desenhos favoritos <br>
+Não uparei os arquivos pois não é o objetivo <br>
 
 ## Gravity Falls
 
