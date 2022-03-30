@@ -2,6 +2,8 @@
 Alguns sites que fiz pra ter fácil acesso aos meus desenhos favoritos <br>
 Não uparei os arquivos pois não é o objetivo <br>
 
+*no momento, estou tentando upar otgw
+
 ## Gravity Falls
 
 Os gêmeos Dipper e Mabel Pines passam as férias com o tio-avô numa misteriosa cidade. Eles tentam se adaptar à estranha região, mas sentem algo estranho e começam a investigar. Dipper encontra um diário codificado e a aventura começa.
